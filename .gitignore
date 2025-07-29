@@ -1,0 +1,52 @@
+# Python virtual environment
+venv/
+
+# Environment variables
+.env
+
+# Generated files and directories
+__pycache__/
+*.pyc
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# IDE and editor files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Data files (if any)
+data/
+research_papers/*.pdf  # Ignore specific PDFs if they are large or not needed in version control
+
+# Build artifacts
+build/
+dist/
+
+# Test output directories
+tests/output/
+
+# Miscellaneous
+.DS_Store
+Thumbs.db
+
+# Requirements file (optional, uncomment if you want to ignore it)
+# requirements.txt
+
+# Docker-related files
+docker-compose.yml.swp
+Dockerfile.swp
+
+# Large files or directories (if applicable)
+*.zip
+*.tar.gz
+*.7z
+
+# Add any other specific files or patterns here
