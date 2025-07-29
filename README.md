@@ -1,4 +1,5 @@
 RAG_BASED DOC Q&A
+
 📌 Overview
 This project implements a RAG-based Document Question Answering System that combines state-of-the-art language models with document retrieval techniques. Inspired by architectures like the Transformer and models such as LLaMA, PaLM, and T5, it leverages attention mechanisms and pre-trained LLMs to retrieve relevant passages from your documents and generate precise answers.
 
